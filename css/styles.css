@@ -1,0 +1,17 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: right;
+  width: 60px;
+}
+
+li a {
+  display: inline;
+  width: 60px;
+}
+
+#logo {
+  width: 100%;
+  margin: 15px;
+}
